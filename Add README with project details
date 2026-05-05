@@ -1,0 +1,24 @@
+
+# 👥 HR Attrition Analysis
+
+## 📌 Overview
+ML-powered analysis of IBM HR dataset to identify
+key factors driving employee attrition.
+
+## 📊 Analysis Performed
+- 👥 Attrition rate by Department
+- 💰 Monthly Income vs Attrition
+- ⏰ Overtime & Job Satisfaction impact
+- 🤖 Random Forest ML Model — 87.41% Accuracy
+- 🎯 Top 10 Factors causing Attrition
+
+## 🗂️ Dataset
+IBM HR Analytics — 1,470 employees, 35 features
+
+## 💡 Key Insights
+- MonthlyIncome is top attrition factor
+- Overtime employees leave more frequently
+- Low job satisfaction increases attrition risk
+
+## 🛠️ Tools
+Python · Pandas · Scikit-learn · Matplotlib · Google Colab
